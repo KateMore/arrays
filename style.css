@@ -1,0 +1,30 @@
+.container {
+	margin-left: 15%;
+	margin-right: 10%;
+}
+
+
+.container> .row>.col-md-6 {
+
+	margin-top: 10px;
+	margin-right: 10px;
+	border: 10px solid #963264;
+	border-radius: 10px;
+	text-align: center;
+	font-style: italic;
+	color: red;
+	max-width: 42%;
+}
+.container> .row>.col-md-6>img {
+	padding: 20px;
+}
+
+.container> .row>.col-md-6>span {
+	font-size: 32px;
+	color: #AA2979;
+}
+.container> .row>.col-md-6>h2 {
+	font-size: 38px;
+	font-weight: bold;
+	color: #c83296;
+}
